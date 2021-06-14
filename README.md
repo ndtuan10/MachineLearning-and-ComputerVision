@@ -7,11 +7,15 @@
 ## Machine Learning
 ### Bài tập
 - [Food_classification with Some Machine Learning Classification](https://github.com/ndtuan10/Machine-Learning/blob/main/BaiTap/Some__Machine_Learning_Classification__Algorithms%2BVGG16_fc2.ipynb)
+- [K-means](https://github.com/ndtuan10/PatternRecognition_CS338.L22.KHCL/blob/main/BaiTap/Bai2_Kmeans.ipynb)
+- [KNN](https://github.com/ndtuan10/PatternRecognition_CS338.L22.KHCL/blob/main/BaiTap/Bai3_KNN.ipynb)
 ### Đồ án
 - [Clothing_image_classification with FashionMNIST](https://github.com/ndtuan10/Machine-Learning/tree/main/DoAn)
 ## Introduction to Computer Vision
 
 ## Computer Vision
-
+### Bài tập
+- [Face detection](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/tree/main/face%20detection)
+- [Face recognition](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/tree/main/face%20recognition)
 ## Deep Learning
 - Tham khảo repos theo đường link sau [Deep Learning](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL)
