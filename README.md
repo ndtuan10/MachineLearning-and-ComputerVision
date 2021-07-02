@@ -18,5 +18,8 @@
 ### Homework
 - [Face detection](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/tree/main/face%20detection)
 - [Face recognition](https://github.com/ndtuan10/ComputerGraphics_CS105.L21.KHCL/tree/main/face%20recognition)
+- [Hancrafted feature for Image Classification](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/blob/main/CV/BaiTap/Handcrafted%20feature%20cho%20Image%20Classification.ipynb)
+### Project
+- [Neuronal Approach for Offline Handwriting Recognition](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/tree/main/CV/DoAn)
 ## Deep Learning
 - Refer to the repos at the following link [Deep Learning](https://github.com/ndtuan10/DeepLearning_CS431.L21.KHCL)
