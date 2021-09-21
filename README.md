@@ -12,7 +12,10 @@
 - [LinearRegression](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/tree/main/ML/Baitap/LinearRegression)
 ### Project
 - [Clothing_image_classification with FashionMNIST](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/tree/main/ML/DoAn)
+
 ## Introduction to Computer Vision
+### Project
+- [Chroma Key](https://github.com/ndtuan10/MachineLearning-and-ComputerVision/tree/main/CV/Project_Chroma%20Key)
 
 ## Advanced Computer Vision
 ### Homework
